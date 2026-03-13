@@ -1,0 +1,3 @@
+
+    export type RemoteKeys = 'REMOTE_ALIAS_IDENTIFIER/Counter' | 'REMOTE_ALIAS_IDENTIFIER/Card' | 'REMOTE_ALIAS_IDENTIFIER/Store';
+    type PackageType<T> = T extends 'REMOTE_ALIAS_IDENTIFIER/Store' ? typeof import('REMOTE_ALIAS_IDENTIFIER/Store') :T extends 'REMOTE_ALIAS_IDENTIFIER/Card' ? typeof import('REMOTE_ALIAS_IDENTIFIER/Card') :T extends 'REMOTE_ALIAS_IDENTIFIER/Counter' ? typeof import('REMOTE_ALIAS_IDENTIFIER/Counter') :any;

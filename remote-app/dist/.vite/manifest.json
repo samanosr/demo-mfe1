@@ -1,0 +1,156 @@
+{
+  "_index-C88V3U4G.js": {
+    "file": "assets/index-C88V3U4G.js",
+    "name": "index",
+    "isDynamicEntry": true,
+    "imports": [
+      "_remoteApp__loadShare__react__loadShare__.mjs_commonjs-proxy-DwSPiQFf.js"
+    ]
+  },
+  "_index-CxpMbRqF.js": {
+    "file": "assets/index-CxpMbRqF.js",
+    "name": "index",
+    "isDynamicEntry": true,
+    "imports": [
+      "_remoteApp__loadShare__react__loadShare__.mjs_commonjs-proxy-DwSPiQFf.js"
+    ]
+  },
+  "_index.cjs-D5pJY2em.js": {
+    "file": "assets/index.cjs-D5pJY2em.js",
+    "name": "index.cjs"
+  },
+  "_jsx-runtime-DtXR568w.js": {
+    "file": "assets/jsx-runtime-DtXR568w.js",
+    "name": "jsx-runtime"
+  },
+  "_preload-helper-B52LGRp6.js": {
+    "file": "assets/preload-helper-B52LGRp6.js",
+    "name": "preload-helper"
+  },
+  "_remoteApp__loadShare__react__loadShare__.mjs-mwGCJPnu.js": {
+    "file": "assets/remoteApp__loadShare__react__loadShare__.mjs-mwGCJPnu.js",
+    "name": "remoteApp__loadShare__react__loadShare__.mjs",
+    "imports": [
+      "_runtimeInit-D7__yYoa.js"
+    ]
+  },
+  "_remoteApp__loadShare__react__loadShare__.mjs_commonjs-proxy-DwSPiQFf.js": {
+    "file": "assets/remoteApp__loadShare__react__loadShare__.mjs_commonjs-proxy-DwSPiQFf.js",
+    "name": "remoteApp__loadShare__react__loadShare__.mjs_commonjs-proxy",
+    "imports": [
+      "_remoteApp__loadShare__react__loadShare__.mjs-mwGCJPnu.js"
+    ]
+  },
+  "_remoteApp__loadShare__react_mf_2_dom__loadShare__.mjs-BauJoqIp.js": {
+    "file": "assets/remoteApp__loadShare__react_mf_2_dom__loadShare__.mjs-BauJoqIp.js",
+    "name": "remoteApp__loadShare__react_mf_2_dom__loadShare__.mjs",
+    "imports": [
+      "_runtimeInit-D7__yYoa.js"
+    ]
+  },
+  "_remoteApp__loadShare__react_mf_2_dom__loadShare__.mjs_commonjs-proxy-ogoF2fm6.js": {
+    "file": "assets/remoteApp__loadShare__react_mf_2_dom__loadShare__.mjs_commonjs-proxy-ogoF2fm6.js",
+    "name": "remoteApp__loadShare__react_mf_2_dom__loadShare__.mjs_commonjs-proxy",
+    "imports": [
+      "_remoteApp__loadShare__react_mf_2_dom__loadShare__.mjs-BauJoqIp.js",
+      "_remoteApp__loadShare__react__loadShare__.mjs_commonjs-proxy-DwSPiQFf.js"
+    ]
+  },
+  "_runtimeInit-D7__yYoa.js": {
+    "file": "assets/runtimeInit-D7__yYoa.js",
+    "name": "runtimeInit"
+  },
+  "index.html": {
+    "file": "assets/index-DU0s2Kah.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_index.cjs-D5pJY2em.js",
+      "_runtimeInit-D7__yYoa.js",
+      "_jsx-runtime-DtXR568w.js",
+      "_remoteApp__loadShare__react__loadShare__.mjs-mwGCJPnu.js",
+      "_remoteApp__loadShare__react__loadShare__.mjs_commonjs-proxy-DwSPiQFf.js",
+      "_remoteApp__loadShare__react_mf_2_dom__loadShare__.mjs_commonjs-proxy-ogoF2fm6.js",
+      "src/components/Counter.tsx",
+      "src/components/Card.tsx",
+      "_remoteApp__loadShare__react_mf_2_dom__loadShare__.mjs-BauJoqIp.js"
+    ]
+  },
+  "node_modules/__mf__virtual/remoteApp__H_A_I__hostAutoInit__H_A_I__.js": {
+    "file": "assets/hostInit-AwPcRV9u.js",
+    "name": "hostInit",
+    "src": "node_modules/__mf__virtual/remoteApp__H_A_I__hostAutoInit__H_A_I__.js",
+    "isEntry": true,
+    "imports": [
+      "_preload-helper-B52LGRp6.js"
+    ],
+    "dynamicImports": [
+      "virtual:mf-REMOTE_ENTRY_ID:remoteApp__remoteEntry_js"
+    ]
+  },
+  "src/components/Card.tsx": {
+    "file": "assets/Card-DaGlqyut.js",
+    "name": "Card",
+    "src": "src/components/Card.tsx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-DtXR568w.js"
+    ]
+  },
+  "src/components/Counter.tsx": {
+    "file": "assets/Counter-BymSRF1I.js",
+    "name": "Counter",
+    "src": "src/components/Counter.tsx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-DtXR568w.js",
+      "_remoteApp__loadShare__react__loadShare__.mjs-mwGCJPnu.js",
+      "_runtimeInit-D7__yYoa.js"
+    ]
+  },
+  "src/store.ts": {
+    "file": "assets/store-DJtbu1A2.js",
+    "name": "store",
+    "src": "src/store.ts",
+    "isEntry": true,
+    "isDynamicEntry": true
+  },
+  "style.css": {
+    "file": "assets/style-NQMHkfp5.css",
+    "src": "style.css"
+  },
+  "virtual:mf-REMOTE_ENTRY_ID:remoteApp__remoteEntry_js": {
+    "file": "remoteEntry.js",
+    "name": "remoteEntry",
+    "src": "virtual:mf-REMOTE_ENTRY_ID:remoteApp__remoteEntry_js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.cjs-D5pJY2em.js",
+      "virtual:mf-exposes:remoteApp__remoteEntry_js",
+      "_preload-helper-B52LGRp6.js",
+      "_runtimeInit-D7__yYoa.js"
+    ],
+    "dynamicImports": [
+      "_index-C88V3U4G.js",
+      "_index-CxpMbRqF.js"
+    ]
+  },
+  "virtual:mf-exposes:remoteApp__remoteEntry_js": {
+    "file": "assets/virtualExposes-CsGycxIc.js",
+    "name": "virtualExposes",
+    "src": "virtual:mf-exposes:remoteApp__remoteEntry_js",
+    "isEntry": true,
+    "imports": [
+      "_preload-helper-B52LGRp6.js"
+    ],
+    "dynamicImports": [
+      "src/components/Counter.tsx",
+      "src/components/Card.tsx",
+      "src/store.ts"
+    ]
+  }
+}

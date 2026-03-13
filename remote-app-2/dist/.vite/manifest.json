@@ -1,0 +1,169 @@
+{
+  "_AnalyticsDashboard-KQSH1dIz.js": {
+    "file": "assets/AnalyticsDashboard-KQSH1dIz.js",
+    "name": "AnalyticsDashboard",
+    "imports": [
+      "_preload-helper-BAEj96dT.js",
+      "_remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js",
+      "_jsx-runtime-DL3XSyLE.js"
+    ],
+    "dynamicImports": [
+      "node_modules/__mf__virtual/remoteApp2__loadRemote__remoteApp_mf_1_Store__loadRemote__.mjs"
+    ]
+  },
+  "_jsx-runtime-DL3XSyLE.js": {
+    "file": "assets/jsx-runtime-DL3XSyLE.js",
+    "name": "jsx-runtime",
+    "imports": [
+      "_rolldown-runtime-BjWfMKpL.js"
+    ]
+  },
+  "_preload-helper-BAEj96dT.js": {
+    "file": "assets/preload-helper-BAEj96dT.js",
+    "name": "preload-helper"
+  },
+  "_remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js": {
+    "file": "assets/remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js",
+    "name": "remoteApp2__loadShare__react__loadShare__.mjs",
+    "imports": [
+      "_rolldown-runtime-BjWfMKpL.js"
+    ]
+  },
+  "_remoteApp2__loadShare__react_mf_2_dom__loadShare__.mjs-yAKKitoG.js": {
+    "file": "assets/remoteApp2__loadShare__react_mf_2_dom__loadShare__.mjs-yAKKitoG.js",
+    "name": "remoteApp2__loadShare__react_mf_2_dom__loadShare__.mjs",
+    "imports": [
+      "_rolldown-runtime-BjWfMKpL.js",
+      "_remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js"
+    ]
+  },
+  "_rolldown-runtime-BjWfMKpL.js": {
+    "file": "assets/rolldown-runtime-BjWfMKpL.js",
+    "name": "rolldown-runtime"
+  },
+  "_virtual_mf-REMOTE_ENTRY_ID_remoteApp2__remoteEntry_js-0vX2Z07z.js": {
+    "file": "assets/virtual_mf-REMOTE_ENTRY_ID_remoteApp2__remoteEntry_js-0vX2Z07z.js",
+    "name": "virtual_mf-REMOTE_ENTRY_ID_remoteApp2__remoteEntry_js",
+    "imports": [
+      "_rolldown-runtime-BjWfMKpL.js",
+      "_preload-helper-BAEj96dT.js",
+      "_remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js",
+      "_virtual_mf-exposes_remoteApp2__remoteEntry_js-CXSmwoGU.js"
+    ],
+    "dynamicImports": [
+      "node_modules/react/index.js",
+      "node_modules/react-dom/index.js"
+    ]
+  },
+  "_virtual_mf-exposes_remoteApp2__remoteEntry_js-CXSmwoGU.js": {
+    "file": "assets/virtual_mf-exposes_remoteApp2__remoteEntry_js-CXSmwoGU.js",
+    "name": "virtual_mf-exposes_remoteApp2__remoteEntry_js",
+    "imports": [
+      "_preload-helper-BAEj96dT.js"
+    ],
+    "dynamicImports": [
+      "src/components/UserStats.tsx",
+      "_AnalyticsDashboard-KQSH1dIz.js"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-DUYENp73.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-BjWfMKpL.js",
+      "_virtual_mf-REMOTE_ENTRY_ID_remoteApp2__remoteEntry_js-0vX2Z07z.js",
+      "_remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js",
+      "_remoteApp2__loadShare__react_mf_2_dom__loadShare__.mjs-yAKKitoG.js",
+      "_jsx-runtime-DL3XSyLE.js",
+      "_AnalyticsDashboard-KQSH1dIz.js",
+      "_virtual_mf-exposes_remoteApp2__remoteEntry_js-CXSmwoGU.js"
+    ]
+  },
+  "node_modules/__mf__virtual/remoteApp2__H_A_I__hostAutoInit__H_A_I__.js": {
+    "file": "assets/hostInit-mQJWKUAL.js",
+    "name": "hostInit",
+    "src": "node_modules/__mf__virtual/remoteApp2__H_A_I__hostAutoInit__H_A_I__.js",
+    "isEntry": true,
+    "imports": [
+      "_preload-helper-BAEj96dT.js"
+    ],
+    "dynamicImports": [
+      "_virtual_mf-REMOTE_ENTRY_ID_remoteApp2__remoteEntry_js-0vX2Z07z.js"
+    ]
+  },
+  "node_modules/__mf__virtual/remoteApp2__loadRemote__remoteApp_mf_1_Store__loadRemote__.mjs": {
+    "file": "assets/remoteApp2__loadRemote__remoteApp_mf_1_Store__loadRemote__-CaarciCY.js",
+    "name": "remoteApp2__loadRemote__remoteApp_mf_1_Store__loadRemote__",
+    "src": "node_modules/__mf__virtual/remoteApp2__loadRemote__remoteApp_mf_1_Store__loadRemote__.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js"
+    ]
+  },
+  "node_modules/react-dom/index.js": {
+    "file": "assets/react-dom-Blynr932.js",
+    "name": "react-dom",
+    "src": "node_modules/react-dom/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-BjWfMKpL.js",
+      "_remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js"
+    ]
+  },
+  "node_modules/react/index.js": {
+    "file": "assets/react-D9SRsaqy.js",
+    "name": "react",
+    "src": "node_modules/react/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-BjWfMKpL.js"
+    ]
+  },
+  "src/components/AnalyticsDashboard.tsx": {
+    "file": "assets/AnalyticsDashboard-Dy5ix5M3.js",
+    "name": "AnalyticsDashboard",
+    "src": "src/components/AnalyticsDashboard.tsx",
+    "isEntry": true,
+    "imports": [
+      "_remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js",
+      "_jsx-runtime-DL3XSyLE.js",
+      "_AnalyticsDashboard-KQSH1dIz.js"
+    ]
+  },
+  "src/components/UserStats.tsx": {
+    "file": "assets/UserStats-BYaZt5II.js",
+    "name": "UserStats",
+    "src": "src/components/UserStats.tsx",
+    "isEntry": true,
+    "imports": [
+      "_preload-helper-BAEj96dT.js",
+      "_remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js",
+      "_jsx-runtime-DL3XSyLE.js"
+    ],
+    "dynamicImports": [
+      "node_modules/__mf__virtual/remoteApp2__loadRemote__remoteApp_mf_1_Store__loadRemote__.mjs"
+    ]
+  },
+  "virtual:mf-REMOTE_ENTRY_ID:remoteApp2__remoteEntry_js": {
+    "file": "remoteEntry.js",
+    "name": "remoteEntry",
+    "src": "virtual:mf-REMOTE_ENTRY_ID:remoteApp2__remoteEntry_js",
+    "isEntry": true,
+    "imports": [
+      "_virtual_mf-REMOTE_ENTRY_ID_remoteApp2__remoteEntry_js-0vX2Z07z.js",
+      "_remoteApp2__loadShare__react__loadShare__.mjs-D3aHkpCj.js",
+      "_virtual_mf-exposes_remoteApp2__remoteEntry_js-CXSmwoGU.js"
+    ]
+  },
+  "virtual:mf-exposes:remoteApp2__remoteEntry_js": {
+    "file": "assets/virtualExposes-7NVZMjcM.js",
+    "name": "virtualExposes",
+    "src": "virtual:mf-exposes:remoteApp2__remoteEntry_js",
+    "isEntry": true,
+    "imports": [
+      "_virtual_mf-exposes_remoteApp2__remoteEntry_js-CXSmwoGU.js"
+    ]
+  }
+}
